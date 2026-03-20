@@ -1,6 +1,8 @@
 raw_data/
+# Codebook/docs bundled with the ICPSR zip — keep local; variable notes live in README + notebook.
 docs/
 *.tsv
 .DS_Store
 __pycache__/
 .venv/
+.mplconfig/
