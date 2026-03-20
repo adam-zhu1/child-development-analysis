@@ -136,5 +136,5 @@ Run **Run → Run All** to refresh tables, models, and figures.
 
 ## License
 
-- **Your code and narrative in this repository:** you may add a `LICENSE` file (e.g. MIT) for your own work.  
+- **Code and documentation in this repository:** Adding a `LICENSE` file (e.g. MIT) is optional; it makes reuse rights explicit for anyone browsing the project. This repo does not include one yet.  
 - **FFCWS data** remain subject to ICPSR/FFCWS terms; the raw TSV is not redistributed here.
